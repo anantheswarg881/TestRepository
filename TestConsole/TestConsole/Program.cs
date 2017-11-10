@@ -11,6 +11,7 @@ namespace TestConsole
         static void Main(string[] args)
         {
             System.Console.Write("Hello");
+            // test commit
         }
     }
 }
