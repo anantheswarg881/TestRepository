@@ -12,6 +12,7 @@ namespace TestConsole
         {
             System.Console.Write("Hello");
             // test commit
+            // test merge
         }
     }
 }
